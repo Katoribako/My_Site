@@ -67,4 +67,21 @@ h1{
     width: 100%;
 }
 
+.for_mail{
+    font: 30px 'Alegreya SC', serif;
+    width:200px;
+    padding:9px;
+    text-align: center;
+    border-radius:1cm;
+    background-color: #8FD4C1;
+}
+
+.email_button{
+    font: 30px 'Alegreya SC', serif;
+    width:300px;
+    padding:9px;
+    text-align: center;
+    border-radius:1cm;
+    background-color: #8FD4C1;
+}
 
